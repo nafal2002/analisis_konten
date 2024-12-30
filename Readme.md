@@ -60,7 +60,7 @@ Penelitian ini menggunakan pendekatan campuran:
 
 ## Cara Menjalankan Proyek
 1. Clone repositori ini:
-      git clone https://github.com/username/repo-name.git
+      git clone https://github.com/nafal2002/analisis_konten
    
 2. Instal pustaka yang diperlukan:
       pip install -r requirements.txt
@@ -83,25 +83,22 @@ Penelitian ini menggunakan pendekatan campuran:
 ## Kontributor Anggota Kelompok
 Berikut adalah foto anggota kelompok yang berkontribusi dalam proyek ini:
 
-![Nafal Mumtaz Fuadi]
 **Nama:** Nafal Mumtaz Fuadi  
 **Email:** nafalmf@gmail.com  
 **Institusi:** Universitas Pelita Bangsa  
-
-![Fauji Farhansyah] 
+ 
 **Nama:** Fauji Farhansyah  
 **Email:** fauzii@gmail.com  
 **Institusi:** Universitas Pelita Bangsa  
 
-![Rimba Wahyu Soga]
 **Nama:** Rimba Wahyu Soga  
 **Email:** rimba@gmail.com  
 **Institusi:** Universitas Pelita Bangsa  
 
-![Alfhin Chorryagnesha Aziz]  
 **Nama:** Alfhin Chorryagnesha Aziz  
 **Email:** apin@gmail.com  
 **Institusi:** Universitas Pelita Bangsa 
+
 ---
 
 ## Lisensi
