@@ -83,22 +83,25 @@ Penelitian ini menggunakan pendekatan campuran:
 ## Kontributor Anggota Kelompok
 Berikut adalah foto anggota kelompok yang berkontribusi dalam proyek ini:
 
-![Foto Anggota Kelompok](image/nafal.jpg)
-- Nama: [Nafal Mumtaz Fuadi]
-- Email: [Nafalmf@gmail.com]
-- Institusi: Universitas Pelita Bangsa
-![Foto Anggota Kelompok](image/fauzi.jpg)
-- Nama: [Fauji farhansyah]
-- Email: [fauzii@.gmail.com]
-- Institusi: Universitas Pelita Bangsa
-![Foto Anggota Kelompok](image/rimba.jpg)
-- Nama: [Rimba wahyu soga]
-- Email: [Rimba.gmail.com]
-- Institusi: Universitas Pelita Bangsa
-![Foto Anggota Kelompok](image/apin.jpg)
-- Nama: [ALFHIN CHORRYAGNESHA AZIZ]
-- Email: [apin@gmail.com]
-- Institusi: Universitas Pelita Bangsa
+![Nafal Mumtaz Fuadi](output/nafal_5x5.jpg)  
+**Nama:** Nafal Mumtaz Fuadi  
+**Email:** nafalmf@gmail.com  
+**Institusi:** Universitas Pelita Bangsa  
+
+![Fauji Farhansyah](output/fauzi_5x5.jpg)  
+**Nama:** Fauji Farhansyah  
+**Email:** fauzii@gmail.com  
+**Institusi:** Universitas Pelita Bangsa  
+
+![Rimba Wahyu Soga](output/rimba_5x5.jpg)  
+**Nama:** Rimba Wahyu Soga  
+**Email:** rimba@gmail.com  
+**Institusi:** Universitas Pelita Bangsa  
+
+![Alfhin Chorryagnesha Aziz](output/apin_5x5.jpg)  
+**Nama:** Alfhin Chorryagnesha Aziz  
+**Email:** apin@gmail.com  
+**Institusi:** Universitas Pelita Bangsa 
 ---
 
 ## Lisensi
